@@ -52,7 +52,7 @@ Right now I'm leveling up:
 ---
 
 ### 🧩 Philosophy
-I'm not trying to make “apps bonitas”.
+
 
 I create systems that become part of the real world:
 - Devices that talk to machines  
