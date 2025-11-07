@@ -1,16 +1,66 @@
-## Hi there 👋
+## ⚡ Welcome to my Lab
 
-<!--
-**darktopmain/darktopmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jaime — Electronic Software Developer + IoT Maker + 3D Printing Engineer.
 
-Here are some ideas to get you started:
+I build real physical + digital systems:
+- I connect software to machines
+- I make hardware talk through Wi-Fi
+- I automate processes that live in the factory floor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like tech that **moves**, **measures**, **talks**, **self-organizes** and **predicts**.
+
+> Code is cool.  
+> But code that moves motors and controls real machines is *another level*.
+
+---
+
+### 🚀 Focus Areas
+| Domain | What I’m doing |
+|--------|----------------|
+| Industrial Automation | WPF apps connected to PLC Keyence (TCP/IP), SQL Server data storage |
+| IoT & Embedded | ESP8266 / ESP32 Wi-Fi devices, REST endpoints, mDNS discovery |
+| Android Development | Tools, scanners, device discovery, SQLite, UI apps for production floor |
+| 3D Engineering | Mechanical prototyping, enclosures, AGV custom builds, FDM optimization |
+| AI / Multi-Agent Systems | Exploring distributed autonomous agent systems |
+
+Right now I'm leveling up:
+- Unity 3D (for simulation + robotics + gamification)
+- English & Japanese (for global technical communication)
+- Finance skills (because devs pierden dinero si no se administran 😄)
+
+---
+
+### 🧠 Tech Stack
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks / Infra
+- .NET / WPF  
+- Android Studio  
+- ESP8266 / ESP32  
+- JmDNS / REST APIs  
+- SQL Server, SQLite  
+- CAD + 3D Printing
+
+---
+
+### 🧩 Philosophy
+I'm not trying to make “apps bonitas”.
+
+I create systems that become part of the real world:
+- Devices that talk to machines  
+- Software that automates decisions  
+- Robots that carry physical weight (literally)  
+
+---
+
+### 📫 Contact
+If you build tech that touches the real world… we’ll get along.
+
