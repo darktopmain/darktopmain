@@ -25,7 +25,7 @@ I like tech that **moves**, **measures**, **talks**, **self-organizes** and **pr
 
 Right now I'm leveling up:
 - Unity 3D (for simulation + robotics + gamification)
-- English & Japanese (for global technical communication)
+- English & Japanese (Basic)
 - Finance skills (because devs pierden dinero si no se administran 😄)
 
 ---
