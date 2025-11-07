@@ -63,9 +63,14 @@ I create systems that become part of the real world:
 
 ### 📫 Contact
 <hr>
-<Br>
+<br>
 <h1 align="center">Get in Touch! 📬</h1>
-<Br>
+<br>
 <p align="center">
-<a href=  <a href="mailto:imagination.3d.4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/imagination.3d.4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/darktopmain" target="blank"><img align="center" src="https://img.shields.io/badge/Darktopmain-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:imagination.3d.4@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/imagination.3d.4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.github.com/darktopmain" target="blank">
+<img align="center" src="https://img.shields.io/badge/Darktopmain-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
